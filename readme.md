@@ -17,7 +17,7 @@ A real-time, multi-channel oscilloscope and data acquisition software built with
 *Real-time signal monitoring with up to 4 simultaneous channels, featuring custom grid modes and voltage/timebase adjustments.*
 
 ### Measurement & Find Mode
-![Find Mode Placeholder](https://via.placeholder.com/800x400/1e1e1e/4eb0ff?text=Drop+Find+Mode+Screenshot+Here)
+<img width="1920" height="1080" alt="Screenshot (542)" src="https://github.com/user-attachments/assets/4c16c54e-7936-482f-b7cc-5a8be0f29741" />
 *Interactive crosshair cursors for precise amplitude and time measurements.*
 
 ### Automated Report Generation
