@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screenshot (586)" src="https://github.com/user-attachments/assets/09f0dc99-db88-4bb5-aff7-d71b598eab46" />
 # ⚡ LCSL Oscilloscope (Linear Control Systems Laboratory)
 
 ![Qt](https://img.shields.io/badge/Qt-5.15%2B-41CD52?style=flat-square&logo=qt&logoColor=white)
