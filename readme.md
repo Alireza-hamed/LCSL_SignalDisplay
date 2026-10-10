@@ -21,7 +21,7 @@ A real-time, multi-channel oscilloscope and data acquisition software built with
 *Interactive crosshair cursors for precise amplitude and time measurements.*
 
 ### Automated Report Generation
-![Report Engine Placeholder](https://via.placeholder.com/800x400/1e1e1e/d83b01?text=Drop+Report+Engine+Screenshot+Here)
+<img width="1920" height="1080" alt="Screenshot (587)" src="https://github.com/user-attachments/assets/be8b460c-78be-4160-9bae-d6c386f18ab5" />
 *Built-in XML-based report engine allowing students to answer questions, fill tables, attach scope captures, and export to PDF.*
 
 ---
