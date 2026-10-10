@@ -1,5 +1,3 @@
-![Uploading Screenshot (542).png…]()
-<img width="1920" height="1080" alt="Screenshot (586)" src="https://github.com/user-attachments/assets/09f0dc99-db88-4bb5-aff7-d71b598eab46" />
 # ⚡ LCSL Oscilloscope (Linear Control Systems Laboratory)
 
 ![Qt](https://img.shields.io/badge/Qt-5.15%2B-41CD52?style=flat-square&logo=qt&logoColor=white)
@@ -15,7 +13,7 @@ A real-time, multi-channel oscilloscope and data acquisition software built with
 *(Note: Replace the placeholder links below with actual screenshots of your running application. You can drag and drop images directly into GitHub to get the link!)*
 
 ### Main Oscilloscope Interface
-![Main Interface Placeholder](https://via.placeholder.com/800x400/1e1e1e/007ACC?text=Drop+Main+Oscilloscope+Screenshot+Here)
+<img width="1920" height="1080" alt="Screenshot (586)" src="https://github.com/user-attachments/assets/09f0dc99-db88-4bb5-aff7-d71b598eab46" />
 *Real-time signal monitoring with up to 4 simultaneous channels, featuring custom grid modes and voltage/timebase adjustments.*
 
 ### Measurement & Find Mode
