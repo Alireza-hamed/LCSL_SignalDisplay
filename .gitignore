@@ -1,0 +1,23 @@
+# Qt build files
+*.pro.user
+*.pro.user.*
+.qmake.stash
+.qmake.cache
+Makefile*
+build-*/
+debug/
+release/
+
+# Compiled Object files
+*.o
+*.obj
+
+# Qt generated files
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
+# LCSL Oscilloscope temporary and record files
+*.csv
+lcsl_oscilloscope_temp.csv
+*.png
